@@ -1,6 +1,8 @@
 Wedding Seating Problem
+========================
 By Zhijing Eu
 zhijingeu@yahoo.com
+
 Apr 2021
 
 The Wedding Seating Problem is a combinatorial puzzle that often arises when planning for large
