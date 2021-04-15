@@ -42,4 +42,4 @@ with some additional tweaks/additions that:
 
 2.Checks the logical consistency of the seating constraints 
 
-3.View the results in a more user friendly way.  
+3.Views the results in a more user friendly way.  
