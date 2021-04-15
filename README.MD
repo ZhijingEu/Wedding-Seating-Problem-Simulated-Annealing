@@ -11,10 +11,19 @@ seated together or seated apart
 
 Description of Files: 
 * Wedding_ Seating_Arrangement_Solver.xlsm - An Excel implementation of a Brute Force Search approach to solving the problem
+
 * WSP_BruteForceMethod.ipynb - A Python Notebook that 'mimics' the Excel implementation with some extra bells & whistles
+
 * WSP_SimAnnealingMethod.ipynb - A Python Notebook that uses a different approach called Simulated Annealing to solve the same problem
+
 * CalculateNoOfPossibleCombinations.ipynb - A supplementary Py Notebook that has some code to calculate the no of possible combinations for table seating arrangement
+
 * Example_Guests96pax_TableSize8pax.xls and Example_Guests30pax_TableSize8pax.xls - Example Upload files to transfer inputs from the Excel Tool to Python Notebooks
+
+* Example_ManualConstraintsMatrixInput.xls - Example Upload file to transfer ONLY a custom Manual Input for Seating Constraints Matrix ...
+..with numerical values vs Together/Apart i.e In this scenario you would use still upload the Example_Guest##Pax_TableSize#Pax.xls ...
+..but just leave all constraint columns blank there as the constraint info would come from this file instead.
+
 * Output_BruteForce_Example_Guests96pax_TableSize8pa.csv and Output_BruteForce_Example_Guests30pax_TableSize8pa.csv - Example output files from Python Notebooks that can be used to transfer results back to the Excel Tool
 
 A Walk Thru video covering the details of this repo available here:
