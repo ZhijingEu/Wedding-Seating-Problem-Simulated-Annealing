@@ -14,8 +14,8 @@ Description of Files:
 * WSP_BruteForceMethod.ipynb - A Python Notebook that 'mimics' the Excel implementation with some extra bells & whistles
 * WSP_SimAnnealingMethod.ipynb - A Python Notebook that uses a different approach called Simulated Annealing to solve the same problem
 * CalculateNoOfPossibleCombinations.ipynb - A supplementary Py Notebook that has some code to calculate the no of possible combinations for table seating arrangement
-* Example_Guests96pax_TableSize8pax.xls and Example_Guests30pax_TableSize8pax.xls - Example Upload files to transfer input from the Excel Tool to Python Notebooks
-* Output_BruteForce_Example_Guests96pax_TableSize8pa.csv and Output_BruteForce_Example_Guests30pax_TableSize8pa.csv - Example Results files from Python Notebooks to transfer back to the Excel Tool
+* Example_Guests96pax_TableSize8pax.xls and Example_Guests30pax_TableSize8pax.xls - Example Upload files to transfer inputs from the Excel Tool to Python Notebooks
+* Output_BruteForce_Example_Guests96pax_TableSize8pa.csv and Output_BruteForce_Example_Guests30pax_TableSize8pa.csv - Example output files from Python Notebooks that can be used to transfer results back to the Excel Tool
 
 A Walk Thru video covering the details of this repo available here:
 https://youtu.be/zKUuijcyZoc
