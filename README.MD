@@ -20,9 +20,10 @@ Description of Files:
 
 * Example_Guests96pax_TableSize8pax.xls and Example_Guests30pax_TableSize8pax.xls - Example Upload files to transfer inputs from the Excel Tool to Python Notebooks
 
-* Example_ManualConstraintsMatrixInput.xls - Example Upload file to transfer ONLY a custom Manual Input for Seating Constraints Matrix ...
-..with numerical values vs Together/Apart i.e In this scenario you would use still upload the Example_Guest##Pax_TableSize#Pax.xls ...
-..but just leave all constraint columns blank there as the constraint info would come from this file instead.
+* Example_ManualConstraintsMatrixInput.xls - Example Upload file to transfer ONLY custom Manual Input for Seating Constraints Matrix ...
+..In this scenario you would use still upload the Example_Guest##Pax_TableSize#Pax.xls into the WSP_SimAnnealingMethod.ipynb file (i.e Cell labelled Option2) ...
+..but just leave all constraint columns blank there as the constraint info (i.e the dict variable relationships_edges) and then use the Cell labelled Option3 
+..to define the constraint values based on this xls instead.
 
 * Output_BruteForce_Example_Guests96pax_TableSize8pa.csv and Output_BruteForce_Example_Guests30pax_TableSize8pa.csv - Example output files from Python Notebooks that can be used to transfer results back to the Excel Tool
 
