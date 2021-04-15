@@ -28,8 +28,6 @@ The code used for Simulated Annealing is heavily based on the code available on 
 http://linanqiu.github.io/2018/03/05/Wedding-Seat-Optimization
 with some additional tweaks/additions that:
 
-1.Provides the option to either generate 'dummy' data for testing or allow users to import guest lists/conditions from the earlier Excel tool 
-
+1.Provides the option to either generate 'dummy' data for testing or allow users to import guest lists/conditions from the earlier Excel tool
 2. Checks the logical consistency of the seating constraints 
-
 3.View the results in a more user friendly way.  
