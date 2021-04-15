@@ -27,6 +27,7 @@ https://zhijingeu.medium.com/building-a-wedding-seating-plan-using-probabilistic
 The code used for Simulated Annealing is heavily based on the code available on this other Github Repo :
 http://linanqiu.github.io/2018/03/05/Wedding-Seat-Optimization
 with some additional tweaks/additions that:
+
 1.Provides the option to either generate 'dummy' data for testing or allow users to import guest lists/conditions from the earlier Excel tool 
 
 2. Checks the logical consistency of the seating constraints 
